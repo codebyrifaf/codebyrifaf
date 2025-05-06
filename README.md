@@ -1,5 +1,5 @@
-# About Me:
-I'm a passionate developer focused on building scalable backend systems, interactive web apps, and fun side projects. I love exploring clean code, system design, and creative problem-solving. Currently working with Java, TypeScript, Node.js, and frameworks like NestJS and Spring Boot. Always learning, building, and pushing boundaries.<br>
+# 
+I am a passionate developer focused on building scalable backend systems, interactive web apps, and fun side projects. I love exploring clean code, system design, and creative problem-solving. Currently working with Java, TypeScript, Node.js, and frameworks like NestJS and Spring Boot. Always learning, building, and pushing boundaries.<br>
 
 
 ## 🌐 Socials:
