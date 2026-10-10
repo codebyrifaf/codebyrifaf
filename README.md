@@ -15,8 +15,6 @@ I am a passionate developer focused on building scalable backend systems, intera
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codebyrifaf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kaizen) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
